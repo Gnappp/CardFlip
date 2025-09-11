@@ -1,0 +1,1 @@
+namespace common { void __common_placeholder__() {} }

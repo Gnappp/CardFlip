@@ -1,0 +1,3 @@
+add_library(common INTERFACE)
+target_include_directories(common INTERFACE ${CMAKE_CURRENT_LIST_DIR})
+target_compile_definitions(common INTERFACE ASIO_STANDALONE)
