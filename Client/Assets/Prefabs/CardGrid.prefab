@@ -141,10 +141,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1094e1f416a55414a93085e1e24a6762, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  grid: {fileID: 3247835214677143035}
+  cardGrid: {fileID: 3247835214677143035}
   cardSlots: []
   fixedCell: {x: 96, y: 128}
-  spacing: {x: 8, y: 8}
 --- !u!1001 &112159749820589835
 PrefabInstance:
   m_ObjectHideFlags: 0

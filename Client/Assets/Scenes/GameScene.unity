@@ -5597,6 +5597,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6040328724453549826, guid: 8bd555749cf218740a32fd6201ccb172, type: 3}
+      propertyPath: cardGrid
+      value: 
+      objectReference: {fileID: 1925150354270975797}
+    - target: {fileID: 6040328724453549826, guid: 8bd555749cf218740a32fd6201ccb172, type: 3}
       propertyPath: cardSlots.Array.size
       value: 28
       objectReference: {fileID: 0}
@@ -6026,6 +6030,17 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 8943243164367304692, guid: 8bd555749cf218740a32fd6201ccb172, type: 3}
   m_PrefabInstance: {fileID: 1925150354270975795}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1925150354270975797 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3247835214677143035, guid: 8bd555749cf218740a32fd6201ccb172, type: 3}
+  m_PrefabInstance: {fileID: 1925150354270975795}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1925150354270975796}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
